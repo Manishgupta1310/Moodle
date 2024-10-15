@@ -1,4 +1,4 @@
-package com.com.moodle;
+package com.manish.moodle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
