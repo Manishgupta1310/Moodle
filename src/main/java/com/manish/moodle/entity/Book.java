@@ -1,4 +1,4 @@
-package com.pranjal.PagePulse.entity;
+package com.manish.moodle.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

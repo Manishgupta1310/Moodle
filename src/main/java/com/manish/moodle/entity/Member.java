@@ -1,4 +1,4 @@
-package com.pranjal.PagePulse.entity;
+package com.manish.moodle.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

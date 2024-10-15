@@ -1,8 +1,8 @@
-package com.pranjal.PagePulse.controller;
+package com.manish.moodle.controller;
 
 
-import com.pranjal.PagePulse.entity.Borrowing;
-import com.pranjal.PagePulse.service.BorrowingService;
+import com.manish.moodle.entity.Borrowing;
+import com.manish.moodle.service.BorrowingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

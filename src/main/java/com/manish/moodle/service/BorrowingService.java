@@ -1,11 +1,11 @@
-package com.pranjal.PagePulse.service;
+package com.manish.moodle.service;
 
-import com.pranjal.PagePulse.entity.Book;
-import com.pranjal.PagePulse.entity.Borrowing;
-import com.pranjal.PagePulse.entity.Member;
-import com.pranjal.PagePulse.repository.BookRepository;
-import com.pranjal.PagePulse.repository.BorrowingRepository;
-import com.pranjal.PagePulse.repository.MemberRepository;
+import com.manish.moodle.entity.Book;
+import com.manish.moodle.entity.Borrowing;
+import com.manish.moodle.entity.Member;
+import com.manish.moodle.repository.BookRepository;
+import com.manish.moodle.repository.BorrowingRepository;
+import com.manish.moodle.repository.MemberRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

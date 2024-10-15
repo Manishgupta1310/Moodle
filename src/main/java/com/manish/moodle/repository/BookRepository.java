@@ -1,6 +1,6 @@
-package com.pranjal.PagePulse.repository;
+package com.manish.moodle.repository;
 
-import com.pranjal.PagePulse.entity.Book;
+import com.manish.moodle.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

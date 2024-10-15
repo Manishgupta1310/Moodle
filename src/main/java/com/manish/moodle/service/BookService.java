@@ -1,7 +1,7 @@
-package com.pranjal.PagePulse.service;
+package com.manish.moodle.service;
 
-import com.pranjal.PagePulse.entity.Book;
-import com.pranjal.PagePulse.repository.BookRepository;
+import com.manish.moodle.entity.Book;
+import com.manish.moodle.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

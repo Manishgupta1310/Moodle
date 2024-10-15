@@ -1,7 +1,7 @@
-package com.pranjal.PagePulse.service;
+package com.manish.moodle.service;
 
-import com.pranjal.PagePulse.entity.Member;
-import com.pranjal.PagePulse.repository.MemberRepository;
+import com.manish.moodle.entity.Member;
+import com.manish.moodle.repository.MemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

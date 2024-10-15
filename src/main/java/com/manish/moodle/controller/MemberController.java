@@ -1,8 +1,8 @@
-package com.pranjal.PagePulse.controller;
+package com.manish.moodle.controller;
 
-import com.pranjal.PagePulse.entity.Member;
-import com.pranjal.PagePulse.service.BookService;
-import com.pranjal.PagePulse.service.MemberService;
+import com.manish.moodle.entity.Member;
+import com.manish.moodle.service.BookService;
+import com.manish.moodle.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

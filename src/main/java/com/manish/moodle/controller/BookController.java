@@ -1,7 +1,7 @@
-package com.pranjal.PagePulse.controller;
+package com.manish.moodle.controller;
 
-import com.pranjal.PagePulse.entity.Book;
-import com.pranjal.PagePulse.service.BookService;
+import com.manish.moodle.entity.Book;
+import com.manish.moodle.service.BookService;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
